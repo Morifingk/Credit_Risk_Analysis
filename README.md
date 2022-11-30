@@ -202,7 +202,7 @@ There are 115,675 applications in the original dataset, but only 526 are High Ri
 
 4️ References
 
-Module 17: Supervised Machine Learning, https://courses.bootcampspot.com/courses/1145/pages/17-dot-0-1-introduction-to-machine-learning, ©️ 2020-2021 Trilogy Education Services, Web 21 May 2022.
+Module 17: Supervised Machine Learning, https://courses.bootcampspot.com/courses/1145/pages/17-dot-0-1-introduction-to-machine-learning, ©️ 2020-2021 Trilogy Education Services, Tues 29 Nov 2022.
 
 Stack Overflow: scikit learn output metrics.classification_report into CSV/tab-delimited format, https://stackoverflow.com/questions/39662398/scikit-learn-output-metrics-classification-report-into-csv-tab-delimited-format
 
